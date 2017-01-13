@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h2><span style="color: rgb(51, 51, 51); font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 12px; white-space: pre; background-color: rgb(255, 255, 255);">Bonjour et bienvenue sur le site de Delphine Froment, &eacute;tudiante en 3BD. </span></h2>
 
-You can use the [editor on GitHub](https://github.com/dfroment/dfroment.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h2><span style="color: rgb(51, 51, 51); font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 12px; white-space: pre; background-color: rgb(255, 255, 255);">Ce site est un projet r&eacute;alis&eacute; dans le cadre du cours d&#39;informatisation des services documentaires pour janvier 2017.</span></h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><span style="color: rgb(51, 51, 51); font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 12px; white-space: pre; background-color: rgb(255, 255, 255);">Vous pouvez donc trouver les diff&eacute;rentes parties du projet aux liens suivants :</span></p>
 
-### Markdown
+<p><span style="color: rgb(51, 51, 51); font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 12px; white-space: pre; background-color: rgb(255, 255, 255);">- Des r&eacute;ponses &agrave; <a href="https://dfroment.github.io/questions">deux questions essentielles</a></span></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p><span style="color: rgb(51, 51, 51); font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 12px; white-space: pre; background-color: rgb(255, 255, 255);">- Un <a href="http://dfroment.github.io/dossier">dossier documentaire</a> sur une technologie de mon choix (FRAD)</span></p>
 
-```markdown
-Syntax highlighted code block
+<p><span style="color: rgb(51, 51, 51); font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 12px; white-space: pre; background-color: rgb(255, 255, 255);">- Un <a href="http://dfroment.github.io/cahier">cahier des charges</a> appliqu&eacute; &agrave; mon travail de fin d&#39;&eacute;tudes</span></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p><span style="color: rgb(51, 51, 51); font-family: Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 12px; white-space: pre; background-color: rgb(255, 255, 255);">- Un <a href="http://dfroment.github.io/kanban">kanban</a> repr&eacute;sentant mon travail pour ce projet</span></p>
 
-- Bulleted
-- List
+<p>&nbsp;</p>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dfroment/dfroment.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>Bonne lecture&nbsp;<img alt="smiley" height="23" src="http://www.html.am/html-editors/ckeditor/ckeditor_4.4.1_full/plugins/smiley/images/regular_smile.png" title="smiley" width="23" /></p>
+</body>
+</html>
